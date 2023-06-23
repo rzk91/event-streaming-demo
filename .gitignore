@@ -19,6 +19,7 @@ target/
 
 # intellij
 .idea
+.run
 
 # mac
 .DS_Store
